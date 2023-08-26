@@ -373,10 +373,10 @@ Example character:
         Martial: 30/100
         Social: 30/100
         Knowledge: 30/100
-        Survival: 50/100 (30 base + 20 from Beggar)
+        Survival: 40/100 (30 base + 10 from Beggar)
         Craftsmanship: 30/100
         Perception: 30/100
-        Stealth: 50/100 (30 base + 20 from Beggar)
+        Stealth: 40/100 (30 base + 10 from Beggar)
         Leadership: 30/100
         Arcane: 0/100
 
