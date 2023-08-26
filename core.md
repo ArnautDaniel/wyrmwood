@@ -1,12 +1,12 @@
 ## Setting
 
-    A grimdark, parallel to medieval Europe where magic is extremely rare.
+A grimdark, parallel to medieval Europe where magic is extremely rare.
 
 ## Character Creation
 
 #### Base Stats
 
-    Every player starts with a 30/100 in all skills.
+Every player starts with a 30/100 in all skills.
 
 ## Skills 
 
@@ -60,27 +60,38 @@
 
 ## Combat
 
-#### Health Points
+### Health Points
 
-    Most Professions: 40 HP
-    Martial Professions: 50 HP
-    Every increment to a tens (i.e. martial skill of 19 -> 20) grants 1d10 HP.
+- **Most Professions**: 40 HP
+- **Martial Professions**: 50 HP
+- **Skill Increment**: Every increment to a tens (e.g. martial skill of 19 -> 20) grants 1d10 HP.
 
-#### Damage
+---
 
-    1-handed weapons: 1d10 + tens digit of martial skill.
-    2-handed weapons: 1d12 + tens digit of martial skill. (These weapons tend to give bigger + bonuses)
+### Damage
 
-#### Critical Strike
+- **1-handed weapons**: `1d10 + tens digit of martial skill.`
+- **2-handed weapons**: `1d12 + tens digit of martial skill.` 
+    - Note: These weapons tend to give bigger + bonuses.
+
+---
+
+### Critical Strike
+
 In combat, if a player rolls doubles below their required skill check (e.g., if the required check is 60, rolling 11, 22, 33, or 44), they land a critical hit. This exceptional feat results in the damage being tripled.
 
-For 1-handed weapons, the damage formula on a critical hit becomes:
+For 1-handed weapons, the critical hit damage formula becomes:
 
-    1d10 + (tens of martial skill * 3)
+- `1d10 + (tens of martial skill * 3)`
+
+---
 
 ## Armor
 
-    Modifies the attacker’s skill check (e.g., leather armor = -10 to an attacker’s martial skill).
+- **Function**: Modifies the attacker’s skill check.
+- **Example**: Leather armor gives a `-10` modifier to an attacker’s martial skill.
+
+
 
 ## Baneful Histories (skill cannot be progressed beyond 40/100):
 
