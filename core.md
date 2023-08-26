@@ -1,14 +1,14 @@
-Setting:
+## Setting
 
     A grimdark, parallel to medieval Europe where magic is extremely rare.
 
-Character Creation:
+## Character Creation
 
-Base Stats:
+#### Base Stats
 
     Every player starts with a 30/100 in all skills.
 
-Skills:
+#### Skills
 Players use these to determine success in various tasks.
 
     Martial:
@@ -57,88 +57,8 @@ Players use these to determine success in various tasks.
         magical phenomena. However, it's rare and always starts at 0, indicating that innate
         magical ability is non-existent at the start, and any prowess in this area must be learned over time.
 
-Primary Professions:
-These grant a 60/100 to their primary skill.
 
-    Knight - Martial
-        "Chivalrous Aura": Once per session, the Knight can call upon their code of honor to
-        gain the respect of an NPC, which can result in assistance or avoiding conflict altogether.
-        It can also inspire allies, granting them a +10 to their next roll.
-
-    Diplomat - Social
-        "Silver Tongue": Once per session, the Diplomat can attempt to convince or persuade an
-        individual without rolling, as long as it's within reason and not against the individual's
-        core beliefs.
-
-    Scholar - Knowledge
-        "Lore Keeper": When confronted with ancient texts, symbols, or historical events,
-        the Scholar can recall an obscure fact or detail once per session that can aid in their
-        current situation.
-
-    Ranger - Survival
-        "Nature's Whisperer": The Ranger can commune with nature to get assistance. This could
-        mean animals aiding in tracking, understanding weather patterns for advantage, or plants 
-        revealing hidden paths once per session.
-
-    Craftsman - Craftsmanship
-        "Masterpiece Creation": Once per session, the Craftsman can create an item of exceptional 
-        quality in half the time it would normally take. This item might fetch a higher price or 
-        have a one-time special property.
-
-    Detective - Perception
-        "Clue Spotter": Once per session, the Detective can find a crucial piece of evidence or 
-        detail in a scene that others might overlook, leading to potential breakthroughs in investigations.
-
-    Rogue - Stealth
-        "Shadowmeld": Once per session, the Rogue can meld into shadows, becoming almost invisible.
-        This grants a guaranteed success for one Stealth roll, but the effect breaks if they attack
-        or take damage.
-
-    Commander - Leadership
-        "Rally the Troops": Once per combat, the Commander can inspire their allies, granting them
-        an additional turn or action. This can be used to turn the tide of a battle.
-
-Halfway Professions:
-These grant 50/100 to two related skills.
-
-    Paladin - Martial + Leadership
-        "Sacred Oath": Once per session, a Paladin can swear an oath in the face of adversity. 
-        When invoked, allies within hearing range gain a +10 to their next action, while the 
-        Paladin gains a +20 bonus to their next Martial or Leadership roll.
-
-    Ambassador - Social + Leadership
-        "Diplomatic Immunity": Once per session, the Ambassador can avoid dire consequences for 
-        themselves or an ally, be it legal repercussions, a combat scenario, or social faux pas, 
-        by invoking their diplomatic status.
-
-    Priest - Knowledge + Social
-        "Divine Guidance": Once per session, a Priest can seek guidance from the heavens. This grants 
-        them insight into a pressing issue, revealing hidden knowledge or immediately calming a 
-        hostile social situation.
-
-    Scout - Survival + Stealth
-        "Pathfinder": Once per session, the Scout can find the quickest and safest path in any 
-        terrain, allowing them and their group to travel twice as fast or avoid imminent threats.
-
-    Artisan - Craftsmanship + Knowledge
-        "Inspired Craft": When faced with a particularly challenging task, an Artisan can, 
-        once per session, draw upon their vast knowledge to create an item that possesses 
-        a temporary magical or extraordinary property.
-
-    Investigator - Perception + Social
-        "Interrogate": Once per session, the Investigator can extract the truth or crucial 
-        information from an individual, even if they are initially unwilling to share it.
-
-    Assassin - Stealth + Martial
-        "Death's Whisper": Once per session, the Assassin can make a surprise attack from 
-        the shadows. This attack is rolled with a +20 bonus and, if successful, deals double damage.
-
-    Strategist - Leadership + Knowledge
-        "Battle Tactician": Once during a combat scenario, the Strategist can reposition 
-        allies or predict an enemy's move, allowing them to negate one enemy action or 
-        provide an ally with an immediate extra action.    Paladin - Martial + Leadership
-
-More grounded roles based on ordinary medieval roles (gain Pity the Poor trait).  These roles are slightly harder, they only gain +10 to each of their primary skills.  However, they also get Beginners Luck and level up these skills faster (bonus ends at 60).
+## Commoner Professions
 
     Farmer - Survival + Craftsmanship
         "Bountiful Harvest": Once per session, a Farmer can find or procure food and water
@@ -179,8 +99,8 @@ More grounded roles based on ordinary medieval roles (gain Pity the Poor trait).
         the wearer near-silent movement, providing a +20 bonus to Stealth checks for a short 
         duration. 
 
--------------
-Skill Checks:
+
+## Skill Checks
 
     Players roll a d100 and aim to roll under their skill score.
     GM can apply modifiers based on difficulty or circumstances.
@@ -192,35 +112,31 @@ Skill Checks:
         If the required roll is above 100: Player must roll 99 or lower for success. 
         Any doubles count as a failure.
 
+## Combat
 
------------
-Combat:
-
-Health Points:
+#### Health Points
 
     Most Professions: 40 HP
     Martial Professions: 50 HP
     Every increment to a tens (i.e. martial skill of 19 -> 20) grants 1d10 HP.
 
-Damage:
+#### Damage
 
     1-handed weapons: 1d10 + tens digit of martial skill.
     2-handed weapons: 1d12 + tens digit of martial skill. (These weapons tend to give bigger + bonuses)
 
-Critical Strike:
+#### Critical Strike
 In combat, if a player rolls doubles below their required skill check (e.g., if the required check is 60, rolling 11, 22, 33, or 44), they land a critical hit. This exceptional feat results in the damage being tripled.
 
 For 1-handed weapons, the damage formula on a critical hit becomes:
 
     1d10 + (tens of martial skill * 3)
 
-------------
-Armor:
+## Armor
 
     Modifies the attacker’s skill check (e.g., leather armor = -10 to an attacker’s martial skill).
 
--------------
-Baneful Histories (skill cannot be progressed beyond 40/100):
+## Baneful Histories (skill cannot be progressed beyond 40/100):
 
     Blurred Vision
         Affected Skill: Perception
@@ -267,8 +183,8 @@ Baneful Histories (skill cannot be progressed beyond 40/100):
         Description: The character has a peculiar resistance or blindness to magic.
         While this might sometimes be a boon, it mostly makes understanding and wielding magic a challenge.
 
-------------------
-Wounds & Injuries:
+
+## Wounds & Injuries
 
     Martial - Fractured Hand:
         Caused by blocking a powerful blow or mishandling a weapon.
@@ -306,64 +222,20 @@ Wounds & Injuries:
         Caused by overextending one's magical abilities or a spell backlash.
         Effects: -15 to Arcane due to weakened magical energies (around 48 hours).
 
--------------
-Pity the Poor:
+## Commoner Profession Traits
+
+    Pity the Poor:
 
     Once per session, on any failed roll, the player may reroll one of the 
     d100 dice in an attempt to achieve doubles, thus turning the roll into a success.
 
-------------
-Magic:
 
-Elemental Spells:
+## Magic
 
-    Damage: 1d20 + (tens digit of arcane skill * 3).  Critical hit is * 9.
+    Covered in magic.md
+    
 
-Spells:
-
-    Ether Dust
-        Target Skill: Perception
-        Effect: Reduces the target's Perception skill to 10/100.
-        Duration: For the remainder of the in-game day.
-
-    Weakened Will
-        Target Skill: Leadership
-        Effect: Reduces the target's Leadership skill to 10/100, 
-        making it difficult for them to inspire or command.
-        Duration: For one in-game encounter.
-
-    Bumbling Curse
-        Target Skill: Martial
-        Effect: Target becomes clumsy, reducing their Martial skill to 10/100.
-        Duration: Lasts for one combat round.
-
-    Silvered Tongue Hex
-        Target Skill: Social
-        Effect: Target struggles to articulate, reducing their Social skill to 10/100.
-        Duration: For one conversation or social encounter.
-
-    Clouded Knowledge
-        Target Skill: Knowledge
-        Effect: Confounds the target's intellect, setting their Knowledge skill to 10/100.
-        Duration: For one in-game challenge requiring knowledge.
-
-    Veil of Shadows
-        Target Skill: Stealth
-        Effect: An aura of noticeable shimmer surrounds the target, reducing their Stealth skill to 10/100.
-        Duration: Until the next sunset or sunrise.
-
-    Brittle Hands
-        Target Skill: Craftsmanship
-        Effect: Target's hands shake uncontrollably, reducing their Craftsmanship skill to 10/100.
-        Duration: For one crafting task.
-
-    Nature's Apathy
-        Target Skill: Survival
-        Effect: Nature itself seems to turn against the target, reducing their Survival skill to 10/100.
-        Duration: For one in-game day while in the wilderness.
-
--------------------
-Example character:
+## Example character
 
     Name: Cedric the Cautious
 
