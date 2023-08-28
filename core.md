@@ -18,7 +18,7 @@ Every player starts with a 30/100 in all skills.
 | **Survival**   | Covers a character's ability to find food and water, build shelter, navigate, and thrive in the wilderness. Essential for those in the wilderness.                                        |
 | **Craftsmanship** | Indicates proficiency in creating, repairing, and understanding objects and mechanisms, spanning blacksmithing, tailoring, locksmithing, and carpentry.                                 |
 | **Perception** | Encompasses a character's awareness of their surroundings, including noticing hidden objects, detecting lies, spotting ambushes, or observing details others might miss.                    |
-| **Burglary**    | Denotes ability to move quietly, hide effectively, and generally avoid detection. Mainstay of thieves, spies, and assassins.                                                              |
+| **Burglary**    | Denotes ability to move quietly, hide effectively, and generally avoid detection. Mainstay of thieves, spies, and assassins. Also represents general street-skills like pickpocketing, breaking and entering, and tax evasion.                                                             |
 | **Fitness** | Represents general kinesthetic ability and constitution.  Influences jumping, climbing, pulling, pushing, and defenstration.                                               |
 | **Arcane**     | Governs the understanding and harnessing of magical forces. Allows casting spells, deciphering arcane texts, and understanding magical phenomena. Rare and starts at 0.                   |
 
